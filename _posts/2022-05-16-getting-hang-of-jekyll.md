@@ -16,29 +16,9 @@ Jekyll is quite powerful indeed I was blown away by the easy at which it works, 
 
 Since this site is a Work in Progress, I have hosted it github pages for now, I plan on getting a Diplo.Domain of my own in the near future if things go well *hopefully*.I should probably checkout how docker environment and such run so I can get insights of Backend development when I eventually get my Domain. I also got around setting Disqus on the site was relatively easier and no-cost.
 
-With a smirk hanging over my lips and with the thought of this not being my last post, I'll take my leave for now until next ti
+With a smirk hanging over my lips and with the thought of this not being my last post, I'll take my leave for now until next time
 
 Signing off<br>
 ./Diplo...
-
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    /
-    /
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://https-diplo2by-github-io.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript%22%3Ecomments powered by Disqus.</a></noscript>
 
 ---
