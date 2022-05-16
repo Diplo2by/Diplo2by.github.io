@@ -4,6 +4,8 @@ title: Getting a hang of Jekyll
 tags: blog
 key: a1
 comments: true
+show_edit_on_github: false
+show_subscribe: false
 ---
 
 Hello, this is Diplo from the past. Today is 16/05/2022, you are seeing my very first blogpost on my own site. I am not a huge fan of web development as a domain so far(*I hope it doesn't stay the same in the future*) but again it's important to have a part of yourself on the internet. Not that the big tech isn't harvesting your likeliness enough, but you get the point. What better way to make this happen than having your own website.
