@@ -25,7 +25,10 @@ titles:
   # @end locale config
 key: page-about
 ---
-![Darshan picture](/about_img.jpg "Diplo does it all")
+![Darshan picture](/assets/about_img.jpg "Diplo does it all")
+
+<a class="button button--primary button--rounded" href="assets/resume.pdf" download= "Darshan_resume">My Résumé</a>
+
 
 # In Essence 
 
@@ -41,4 +44,4 @@ I am also a huge fan of performing in general, be it podcasts, Radio shows or ev
 To sum it all up, most of my effort goes into coming up with puns and alliterations. Not to mention broken humour and dank wit. Also this is more of short squeeze 4fun blog/journal that doesn't take itself too seriously, in case you feel the contrary, feel free to email me.
 
 **./Diplo**<br>
-(This user is usually found sharing memes on WhatsApp or queuing up for agame of ARAM on Garena)
+(This user is usually found sharing memes on WhatsApp or queuing up for a game of ARAM on Garena)
